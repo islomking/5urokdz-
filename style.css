@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.otasiA{
+    width: 1160px;
+    height: 833px;
+
+    border-radius: 40px;
+    background-color: #343C56;
+    margin: 0 auto;
+}
+
+.menu{
+    width: 100%;
+    color: white;
+    padding: 46px 86px;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul li{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: red;
+    text-align: center;
+    align-content: center;
+}
+.kartinki{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 86px;
+}
+
+.kartinki img{
+    width: 400px;
+    height: 200px;
+}
+.flexbox{
+    width: 264px;
+    height: 118px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 41px auto;
+    background-color: black;
+}
+.textperviy{
+    width: 400px;
+   background-color: #61FF00;
+   ;
+   border: 50px solid red;
+   border-radius: 50px;
+   margin: 41px auto;
+}
+
+.textvtoroy{
+    width: 400px;
+   background-color: #61FF00;
+   border: 50px solid red;
+   border-radius: 50px;
+   margin: 41px auto;
+}
+
+.text{
+    display: flex;
+    
+}
